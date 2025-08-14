@@ -6,7 +6,7 @@ yarn-error.log*
 pnpm-debug.log*
 
 # Environment files
-env
+./backend/env
 .env
 .env.*.local
 
