@@ -203,7 +203,7 @@ LINE: [Social proof/emotion]
 LINE: [Call to action]`;
 
     console.log('[AI] 📝 Generating enhanced script...');
-    const script = await generateAiContent(scriptPrompt);
+    const script = await generateAiContent(scriptPrompt, false);
     return script;
 }
 
