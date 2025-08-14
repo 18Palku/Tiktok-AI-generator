@@ -1,0 +1,2 @@
+file 'C:\Users\Palak\Desktop\video-generator-project\backend\public\image-1754213930247-0.jpg'
+duration 89.825
